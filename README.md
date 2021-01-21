@@ -8,5 +8,5 @@ Simple To-do list app has the ability to add new records and delete them. Create
 * Delete item
 
 ## Skills
-Deploy server based applications with Heroku.
-Deploy Databases with Mongo Atlas.
+* Deploy server based applications with Heroku.
+* Deploy Databases with Mongo Atlas.
